@@ -1,0 +1,18 @@
+{
+  "wifi_ssid": "",
+  "wifi_pass": "",
+  "mqtt_host": "o1c1f1d1.ala.asia-southeast1.emqxsl.com",
+  "mqtt_port": 8883,
+  "mqtt_user": "purifier_admin",
+  "mqtt_pass": "Pass1234!",
+  "client_id": "esp32_air_purifier",
+  "topic_data": "air_purifier/data",
+  "topic_cmd": "air_purifier/cmd",
+  "filter_seconds": 0,
+  "p_m": 35,
+  "p_h": 50,
+  "m_m": 400,
+  "m_h": 600,
+  "n_s": 22,
+  "n_e": 6
+}
